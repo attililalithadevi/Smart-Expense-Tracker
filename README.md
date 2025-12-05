@@ -97,7 +97,7 @@ Date (yyyy-mm-dd): 2025-01-10
 
 Expense added successfully!
 
-![Uploading image.png…]()
+<img width="1366" height="768" alt="Screenshot (850)" src="https://github.com/user-attachments/assets/45712a15-8013-4e50-b290-74ac453ce3d2" />
 
 
 ## 🔮 Future Enhancements
